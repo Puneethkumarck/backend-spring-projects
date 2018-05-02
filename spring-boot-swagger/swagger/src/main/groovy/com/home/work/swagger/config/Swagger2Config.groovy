@@ -31,7 +31,7 @@ class Swagger2Config {
     }
 
     private ApiInfo getApiInfo(){
-        new ApiInfoBuilder().title("restful spi").description('restful api interface documentation').version("v1").build()
+        new ApiInfoBuilder().title("Restful spi").description('restful api interface documentation').version("v1").build()
     }
 
 }
