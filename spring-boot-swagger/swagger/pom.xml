@@ -8,7 +8,7 @@
 	<packaging>jar</packaging>
 
 	<name>swagger</name>
-	<description>spring boot swaggger</description>
+	<description>spring boot swaggger demo app</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
